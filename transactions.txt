@@ -1,0 +1,4 @@
+Removed item: apples.
+Added new item: 00005,apples,10.0,10,100.0
+Added new item: 00006,bananas,10.0,10,100.0
+Removed item: bananas.
